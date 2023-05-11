@@ -6,7 +6,7 @@
 
 - 🌱 Сейчас я изучаю **TypeScript,NestJS**
 
-- 💬 Спросите меня о <rm>React и JS</rm>
+- 💬 Спросите меня о **React и JS**
 
 <h3 align="left">Свяжитесь со мной:</h3>
 
