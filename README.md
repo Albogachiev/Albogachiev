@@ -9,7 +9,7 @@
 - 💬 Спросите меня о <rm>React и JS</rm>
 
 <h3 align="left">Свяжитесь со мной:</h3>
-📫 **gapur.all@mail.ru
+📫 **gapur.all@mail.ru**
 
 <p align="left" >
 <a href="https://instagram.com/maga_all" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- генератор/мастер/src/images/icons/Social/instagram.svg" alt="maga_all" height="30" width="40" /></a> </p>
