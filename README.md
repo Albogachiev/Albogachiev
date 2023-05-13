@@ -13,7 +13,7 @@
 📫 **gapur.all@mail.ru**
 
 <p align="left" >
-<a href="https://www.instagram.com/maga_albo/?igshid=NTc4MTIwNjQ2YQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- генератор/мастер/src/images/icons/Social/instagram.svg" alt="maga_all" height="30" width="40" /></a> </p>
+<a href="https://www.instagram.com/maga_albo/?igshid=NTc4MTIwNjQ2YQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- генератор/мастер/src/images/icons/Social/instagram.svg" alt="maga_albo" height="30" width="40" /></a> </p>
  <h3 align="left"
 >
 
