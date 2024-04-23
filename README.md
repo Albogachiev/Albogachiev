@@ -5,7 +5,7 @@
 
 - 🔭 Работаю над приложением, для анализа активности в соц сетях **Meta Platforms**
 
-- 📄 Ссылка на мое резюме [https://hh.ru/resume/0325762bff0bbc0f210039ed1f4b4244666965](https://hh.ru/resume/0325762bff0bbc0f210039ed1f4b4244666965)
+- 📄 Ссылка на мое резюме [https://spb.hh.ru/resume/67ca0254ff0d1c2c170039ed1f6959744e744f](https://spb.hh.ru/resume/67ca0254ff0d1c2c170039ed1f6959744e744f)
 
 ## Связь со мной: 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/d_albo)
