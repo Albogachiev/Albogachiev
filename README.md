@@ -1,12 +1,6 @@
 <h1 align="center">Привет, я Магомед 👋</h1>
 <h3 align="center">Fullstack-разработчик (Node.js/PostgreSQL)</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=albogachiev&label=Profile%20views&color=0e75b6&style=flat" alt="albogachiev" />
-</p>
-
----
-
 ### 📫 Связь со мной
 <p align="left">
   <a href="https://t.me/ai_magomed" target="_blank">
