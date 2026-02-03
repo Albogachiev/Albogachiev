@@ -1,31 +1,8 @@
 <h1 align="center">Привет, я Магомед 👋</h1>
-<h3 align="center">Backend-разработчик (Node.js)</h3>
+<h3 align="center">Fullstack-разработчик (Node.js/PostgreSQL)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=albogachiev&label=Profile%20views&color=0e75b6&style=flat" alt="albogachiev" />
-</p>
-
-<p align="center">
-  Я занимаюсь разработкой серверных приложений, API и сервисов.  
-  Люблю чистую архитектуру, понятный код и предсказуемые системы.
-</p>
-
----
-
-### 🛠 Основной стек
-- **Node.js**, **TypeScript**
-- **NestJS**, Express
-- **PostgreSQL**, Redis
-- **Prisma**, Sequelize
-- REST API, WebSockets
-- Docker, CI/CD
-- Linux, Git
-
----
-
-### 📊 Статистика
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albogachiev&layout=compact&theme=default" alt="top langs" />
 </p>
 
 ---
